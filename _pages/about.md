@@ -44,7 +44,7 @@ At the same lab, I've been working on providing timing predictability for the ex
 
 **Fun facts**
 
-I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association).
+I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips. 
 
 
 <!--
