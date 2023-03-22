@@ -24,7 +24,7 @@ In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Tr
 
 **Academic service**
 
-I'm the co-founder and general chair of the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, which will be held in July 2023 in conjunction with the Design and Automation Conference in San Francisco, California (DAC 2023)
+I'm co-founder and general chair of the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, which will be held in July 2023 in conjunction with the Design and Automation Conference in San Francisco, California (DAC 2023)
 
 I'm technical program committee co-chair of the 2nd Real-time And intelliGent Edge computing workshop (RAGE), which will be held in conjunction with CPSweek 2023 in San Antonio, Texas.
 
