@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**About**
-
 Welcome! I'm an enthusiastic hardware engineer working as a postdoctoral researcher at the University of California, San Diego.
 
 I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory).
