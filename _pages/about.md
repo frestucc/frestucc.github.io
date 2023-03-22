@@ -16,7 +16,9 @@ I spend most of my research efforts working on hardware security, hardware suppo
 
 I passionately collaborated to other research projects related to flash memory reliability and telehealth.
 
-I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS.
+**Publications and presentations**
+
+I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS (see the publication page for the full list).
 
 In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Training and Conference. In 2023, I've been invited to speak at the Qualcomm Security Summit.
 
