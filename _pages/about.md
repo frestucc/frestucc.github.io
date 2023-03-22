@@ -12,7 +12,7 @@ Welcome! I'm an enthusiastic hardware engineer working as a postdoctoral researc
 
 **Current research topics**
 
-I spend most of my research efforts working on hardware security, hardware support for timing predictability, and applications on open-hardware System-on-Chip architectures. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of systems designed for critical applications (such as cyber-physical systems) work more safely, securely, and time-predictably.
+I spend most of my research efforts working on hardware security, hardware support for timing predictability, and applications on open-hardware System-on-Chip architectures. I particularly focus on embedded heterogenous platforms and cyber-physical systems. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of heterogeneous systems work more safely, securely, and time-predictably.
 
 I passionately collaborated to other research projects related to flash memory reliability and telehealth.
 
