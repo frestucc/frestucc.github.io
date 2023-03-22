@@ -18,15 +18,15 @@ I passionately collaborated to other research projects related to flash memory r
 
 **Publications and presentations**
 
-I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS (see the publication page for the full list).
+I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS (see the publications page for the full list).
 
 In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Training and Conference. In 2023, I've been invited to speak at the Qualcomm Security Summit.
 
 **Academic service**
 
-I'm co-founder and general chair of the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, which will be held in July 2023 in conjunction with the Design and Automation Conference in San Francisco, California (DAC 2023)
+I'm co-founder and general chair of the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, which will be held in July 2023 in conjunction with the 60th Design and Automation Conference in San Francisco, California (DAC 2023).
 
-I'm technical program committee co-chair of the 2nd Real-time And intelliGent Edge computing workshop (RAGE), which will be held in conjunction with CPSweek 2023 in San Antonio, Texas.
+I'm technical program committee co-chair of the <a href="https://rage-workshop.github.io/2023/">2nd Real-time And intelliGent Edge computing (RAGE) workshop</a>, which will be held in conjunction with CPS-IoT Week 2023 in San Antonio, Texas.
 
 I've been publicity chair and program committee member for the 1st Real-time And intelliGent Edge computing workshop (RAGE) that has been held in conjunction with the 59th Design Automation Conference (DAC 2022).
 
@@ -34,13 +34,11 @@ I served as a program committee member for IEEE RTSS 2022, IEEE RTSS 2023, IEEE 
 
 I served as reviewer for multiple scientific journals, such as IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Magazine, Elsevier Engineering Applications of Artificial Intelligence, Elsevier Microprocessors and Microsystems, and others.
 
-**About my PhD**
+**About my Education**
 
-I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory).
+I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory). My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms. At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the <a href="http://arte.retis.santannapisa.it">Arduino Real-Time ARTe project</a> between 2017 and 2021.
 
-My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms.
-
-At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the <a href="http://arte.retis.santannapisa.it">Arduino Real-Time ARTe project</a> between 2017 and 2021.
+I hold a master's degree in Electrical and Telecommunication Engineering, received from University of Ferrara, Italy in 2017.
 
 **Fun facts**
 
