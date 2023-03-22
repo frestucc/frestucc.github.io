@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+**About**
+
 Welcome! I'm an enthusiastic hardware engineer working as a postdoctoral researcher at the University of California, San Diego.
 
 I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory).
@@ -34,10 +34,10 @@ I served as reviewer for multiple scientific journals, such as IEEE Transactions
 
 I passionately collaborated to other research projects related to security, flash memory reliability, and telehealth.
 
-I founded a band in 2022 with my fellow Curaro Arsenico which is unsurprisingly named FPGA (Fellow Program Guitar Association).
+I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association).
 
 
-
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -75,4 +75,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

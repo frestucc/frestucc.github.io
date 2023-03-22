@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Quality-of-service implications of enhanced program algorithms for charge-trapping NAND in future solid-state drives"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Three-dimensional nand memory devices based on charge trapping (CT) technology represent the most promising solution for hyperscaled solid-state drives (SSDs). However, the intrinsic low reliability offered by that storage medium leads to a high number of errors requiring an extensive use of complex error correction codes (ECCs) and advanced read algorithms such as read retry. This materializes in an overall reduction in the SSD's QoS. In order to limit the error number, enhanced program algorithms that are able to improve the reliability figures of CT memory devices have been introduced. In this paper, the impact of such program algorithms combined with read retry and the ECC is experimentally characterized on CT- nand arrays. The results are then exploited for cosimulations at the system level, assessing the reliability, performance, and QoS of future SSDs integrating CT-based memory devices.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'IEEE Transactions on Device and Materials Reliability'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7130589/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+**Abstract**
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Three-dimensional nand memory devices based on charge trapping (CT) technology represent the most promising solution for hyperscaled solid-state drives (SSDs). However, the intrinsic low reliability offered by that storage medium leads to a high number of errors requiring an extensive use of complex error correction codes (ECCs) and advanced read algorithms such as read retry. This materializes in an overall reduction in the SSD's QoS. In order to limit the error number, enhanced program algorithms that are able to improve the reliability figures of CT memory devices have been introduced. In this paper, the impact of such program algorithms combined with read retry and the ECC is experimentally characterized on CT- nand arrays. The results are then exploited for cosimulations at the system level, assessing the reliability, performance, and QoS of future SSDs integrating CT-based memory devices.
