@@ -1,0 +1,4 @@
+How to extract data - multiple iterations to transfer data when the channel is very noisy -- similar to GPS data transmission
+
+
+L1 Data Cache, L1 Instruction cache, Data TLB, Branch target buffer, Branch History table

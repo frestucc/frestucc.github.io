@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francesco Restuccia"
 title_separator          : "-"
 name                     : &name "Francesco Restuccia"
-description              : &description "personal description"
+description              : &description "Francesco Restuccia"
 url                      : https://frestucc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frestucc/frestucc.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Restuccia"
-  avatar           : "profile.png"
+  avatar           : "frestuccia.jpg"
   bio              : "Postdoctoral Researcher - University of California San Diego, Computer Science and Engineering Department"
   location         : "San Diego, California, USA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/frestuccia/"
+  linkedin         : "frestuccia"
   orcid            : "https://orcid.org/0000-0001-6955-1888"
   pinterest        :
   soundcloud       :
