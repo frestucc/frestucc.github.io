@@ -10,15 +10,25 @@ redirect_from:
 
 Welcome! I'm an enthusiastic hardware engineer working as a postdoctoral researcher at the University of California, San Diego.
 
+**Current research topics**
+
+I spend most of my research efforts working on hardware security, hardware support for timing predictability, and application on open-hardware System-on-Chip architectures. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of systems designed for critical applications (such as cyber-physical systems) work more safely, securely, and time-predictably.
+
+In the past, I passionately collaborated to other research projects related to flash memory reliability and telehealth.
+
+I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS.
+
+In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Training and Conference. In 2023, I've been invited to speak at the Qualcomm Security Summit.
+
+**About my PhD**
+
 I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory).
 
 My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms.
 
 At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the Arduino Real-Time ARTe project between 2017 and 2021 (http://arte.retis.santannapisa.it).
 
-Currently, I spend most of my research efforts working on hardware security, hardware support for timing predictability, and application on open-hardware System-on-Chip architectures. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of systems designed for critical applications (such as cyber-physical systems) work more safely, securely, and time-predictably.
-
-I published and presented my work at multiple peer-reviewed top-notch scientific conferences such as ACM/IEEE DAC, IEEE/ACM ICCAD, IEEE CASES, IEEE FCCM, IEEE RTSS, and Euromicro ECRTS. In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Training and Conference. In 2023, I've been invited to speak at the Qualcomm Security Summit.
+**Academic service**
 
 I'm the co-founder and general chair of the first edition of the Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop, which will be held in July 2023 in conjunction with the Design and Automation Conference in San Francisco, California (DAC 2023).
 
@@ -30,7 +40,7 @@ I served as a program committee member for IEEE RTSS 2022, IEEE RTSS 2023, IEEE 
 
 I served as reviewer for multiple scientific journals, such as IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Magazine, Elsevier Engineering Applications of Artificial Intelligence, Elsevier Microprocessors and Microsystems, and others.
 
-I passionately collaborated to other research projects related to security, flash memory reliability, and telehealth.
+**Fun facts**
 
 I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association).
 
