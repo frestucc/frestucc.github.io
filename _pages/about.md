@@ -38,11 +38,11 @@ I served as reviewer for multiple scientific journals, such as IEEE Transactions
 
 I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory). My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms. At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the <a href="http://arte.retis.santannapisa.it">Arduino Real-Time ARTe project</a> between 2017 and 2021.
 
-I hold a master's degree in Electrical and Telecommunication Engineering, received from University of Ferrara, Italy in 2017.
+I hold a master's degree in Electrical and Telecommunication Engineering, received from the University of Ferrara, Italy in 2017.
 
 **Fun facts**
 
-I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips.
+I play guitar, mainly busking on the streets of Italy and Spain. In 2022 I co-founded a band that is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips.
 
 
 <!--
