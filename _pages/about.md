@@ -12,7 +12,7 @@ Welcome! I'm an enthusiastic hardware engineer working as a postdoctoral researc
 
 **Current research topics**
 
-I spend most of my research efforts working on hardware security, hardware support for timing predictability, and application on open-hardware System-on-Chip architectures. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of systems designed for critical applications (such as cyber-physical systems) work more safely, securely, and time-predictably.
+I spend most of my research efforts working on hardware security, hardware support for timing predictability, and applications on open-hardware System-on-Chip architectures. My research aims at providing methodologies, tools, and mathematical analysis to make the next generation of systems designed for critical applications (such as cyber-physical systems) work more safely, securely, and time-predictably.
 
 I passionately collaborated to other research projects related to flash memory reliability and telehealth.
 
@@ -44,7 +44,7 @@ At the same lab, I've been working on providing timing predictability for the ex
 
 **Fun facts**
 
-I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips. 
+I co-founded a band in 2022 which is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips.
 
 
 <!--
