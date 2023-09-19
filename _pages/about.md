@@ -24,25 +24,25 @@ In 2022, I've been selected as a speaker for the 2022 US Hardwear.io Security Tr
 
 **Academic service**
 
-I'm co-founder and general chair of the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, which will be held in July 2023 in conjunction with the 60th Design and Automation Conference in San Francisco, California (DAC 2023).
+I'm co-founder and I served as general chair and tecnical program committee co-chair for the first edition of the <a href="https://ssh-soc-workshop.github.io/2023/">Safety and Security in Heterogeneous Open System-on-Chip Platforms (SSH-SoC) workshop</a>, held in July 2023 in conjunction with the 60th Design and Automation Conference in San Francisco, California (DAC 2023).
 
-I'm technical program committee co-chair of the <a href="https://rage-workshop.github.io/2023/">2nd Real-time And intelliGent Edge computing (RAGE) workshop</a>, which will be held in conjunction with CPS-IoT Week 2023 in San Antonio, Texas.
+I served as technical program committee co-chair for the <a href="https://rage-workshop.github.io/2023/">2nd Real-time And intelliGent Edge computing (RAGE) workshop</a>, held in conjunction with CPS-IoT Week 2023 in San Antonio, Texas.
 
 I've been publicity chair and program committee member for the 1st Real-time And intelliGent Edge computing workshop (RAGE) that has been held in conjunction with the 59th Design Automation Conference (DAC 2022).
 
-I served as a program committee member for IEEE RTSS 2022, IEEE RTSS 2023, IEEE DSD 2023, RAGE@DAC2022, and RTSOPS 2022.
+I served as a program committee member for IEEE RTSS 2022, IEEE RTSS 2023, EMSOFT 2023, IEEE DSD 2023, RAGE@DAC2022, RTSOPS 2022, and RICSS 2023
 
 I served as reviewer for multiple scientific journals, such as IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, IEEE Transactions on Dependable and Secure Computing, IEEE Internet of Things Magazine, Elsevier Engineering Applications of Artificial Intelligence, Elsevier Microprocessors and Microsystems, and others.
 
 **About my Education**
 
-I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory). My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms. At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the <a href="http://arte.retis.santannapisa.it">Arduino Real-Time ARTe project</a> between 2017 and 2021.
+I received my Ph.D. in Emerging Digital Technologies - Embedded Systems (computer engineering) from Scuola Superiore Sant'Anna Pisa, Italy in 2021, while working at the ReTiS Lab (Real-Time Systems Laboratory). My thesis was mainly focused on providing tools and analysis for the predictable, safe, and secure execution of critical applications on commercial FPGA SoC platforms. At the same lab, I've been working on providing timing predictability for the execution of Deep Neural Networks for Autonomous Driving applications on commercial FPGA SoCs. As a side project, I've been the main developer and maintainer of the <a href="http://arte.retis.santannapisa.it">Arduino Real-Time ARTe project</a> between 2017 and 2021.
 
 I hold a master's degree in Electrical and Telecommunication Engineering and a bachelor's degree in Electrical and Computer Engineering, both received from the University of Ferrara, Italy, in 2017 and 2014, respectively.
 
 **Fun facts**
 
-I play guitar, mainly busking on the streets of Italy and Spain. In 2022 I co-founded a band that is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ". For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips.
+I play guitar, mainly busking on the streets of Italy and Spain. In 2022 I co-founded, with Curaro Arsenico, a band that is unsurprisingly named FPGA (Fellow Program Guitar Association). One of our guitars is named "ZYNQ" (located in Valencia, Spain). For a short period, also another guitar named "Ultrascale" was part of the band, before she decided to remain in Tel Aviv, Israel after falling in love with the city during one of our trips.
 
 
 <!--
